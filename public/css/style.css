@@ -1,0 +1,175 @@
+.main-container {
+    min-height: 100vh;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    padding-bottom: 100px;
+}
+
+.header-a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.alink {
+    /* background-color: red; */
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.alink {
+    color: black;
+}
+
+.nav-link {
+    color: black !important;
+}
+.nav-link:hover {
+    color: #400101;
+    font-weight:bold;
+}
+
+.alink ul {
+    float: left;
+}
+
+.nav-container .start {
+    font-weight: 600;
+    color: black;
+}
+
+.navbar-nav>li {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.start {
+    border-radius: 9px;
+    border-width: 0.1em;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 30px;
+}
+
+.start:hover {
+    color: white;
+}
+
+.brand {
+    font-weight: bolder;
+}
+
+.talk {
+    padding-top: 100px;
+}
+
+.talk>h1 {
+    font-size: 60px !important;
+    font-weight: bold;
+    color: black;
+}
+
+.showcase-img {
+    background-image: url('../images/World\ Emoji\ Day-bro.svg');
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 60%;
+}
+.row{
+    height: 100vh;
+}
+.cor{
+    background: #F2D7D0;
+    
+}
+.linha{
+    flex-direction: row-reverse;
+}
+.link{
+    color: #212529;
+}
+.link:hover{
+    text-decoration: none;
+    color: #400101;
+    font-weight: bold;
+}
+.showcase-img2{
+    background-image: url('../images/Listening\ happy\ music-amico.svg');
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 60%;
+}
+.showcase-img3{
+    background-image: url('../images/Feeling\ sorry-bro.svg');
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 60%;
+}
+.showcase-img4{
+    background-image: url('../images/Lost-amico.svg');
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 60%;
+}
+
+.no-bold {
+    font-weight: 100;
+}
+
+.bold-two {
+    font-weight: 200;
+}
+
+.bold-three {
+    font-weight: 300;
+}
+
+.bold-four {
+    font-weight: 400;
+}
+
+.start-two {
+    background-color: #372F7F;
+    color: wheat;
+    margin-left: 0;
+    font-weight: 600;
+}
+
+.det-ails {
+    margin-top: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.icon-bra-ails {
+    padding-bottom: 30px;
+}
+
+.icon-ails {
+    color: #3F3D56 !important;
+    font-size: 40px;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    background-color: #212529;
+    padding-top: 25px;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+}
+
+.author {
+    text-decoration: none !important;
+}
